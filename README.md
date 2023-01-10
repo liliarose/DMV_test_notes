@@ -221,12 +221,248 @@ Before changing lanes, look in all mirrors, and
 ![Screen Shot 2023-01-08 at 5 01 01 PM](https://user-images.githubusercontent.com/14303605/211227710-e605e159-810d-464f-b272-937dede4c492.jpg)
 
 
+### Parking 
+- on a slope: set the parking brake
+- headed *downhill*: turn front wheels into curb/toward roadside
+- headed *uphill*: turn wheels away from curb and let vehicle roll back a few inches 
+- when no curb & on slope, turn wheels so vehicle will roll away from the center of the road if brakes fail
+
+![](https://www.dmv.ca.gov/portal/uploads/2020/02/parkingonhill.png)
+
+- **white**: only stop to pick up/drop off passengers. 
+- **green**: park for limited time. Look for posted sign or curb for time limits. 
+- **yellow**: stop no longer than time posted to load/unload passengers/fright. Drivers of noncommercial usually required to stay in vehicle 
+- **red**: no stopping, standing, parking 
+- **blue**: only for disabled or driver of disabled. 
+
+#### Parallel Parking 
+1. Find a space at least 3 ft longer than vehicle & signal parking intent 
+2. Pull vehicle alongside space/vehicle in front of where u want to park. Leave 2 ft b/w vehicle/space next to u and stop once rear bumper is aligned before where u want to park. Check rear and look over shoulder for approaching vehicles. Keep foot on brake and put vehicle in reverse. Maintain parking signal 
+
+![Screen Shot 2023-01-09 at 10 05 24 AM](https://user-images.githubusercontent.com/14303605/211376842-00d99f54-7813-4da4-927f-c23ab98f89e4.jpg)
+
+3. lift foot off brake. Before backing, check mirrors & shoulder for hazards. Back up at ~45 degrees angle. 
+
+![Screen Shot 2023-01-09 at 10 07 39 AM](https://user-images.githubusercontent.com/14303605/211377216-f065aaec-d0a9-45fd-8987-361255f492e9.jpg)
+
+4. Straighten out. Turn steering wheel away from curb when rear wheel is <= 18 inches from curb. Pull forward & backward to straighten out. Vehicle should be parallel & <= 18 inches from curb. 
+![Screen Shot 2023-01-09 at 10 09 22 AM](https://user-images.githubusercontent.com/14303605/211377557-029e99ba-63ce-45c1-b1f2-1293fd7c9504.jpg)
+
+#### Illegal Parking 
+Never park when 
+- on marked/unmarked crosswalk, sidewalk, partially blocking sidewalk, or before driveway 
+- within 3 ft of sidewalk ramp for disabled or before curb w/ wheelchar access 
+- crosshatched pattern if next to disabled parking 
+- in tunnel or on bridges unless permitted by signs 
+- within 15 ft of hydrant or fire station driveway
+- on or within 7.5 ft of railroad track 
+- b/w safety zone & curb 
+- on the wrong side of street
+- on freeway except for emergency, when police/device requires stop, where stop is permitted
+- space designated for specific parking (ie. fuel for zero emission)
+
+### Signaling 
+- left turn = parallel hand signal 
+- right turn = up 
+- slow/stop = down (both lights)
+Signal 
+- during the last 100 ft before reaching turning pt 
+- before lane changes; check mirror, over shoulder, and blind spots before changing lanes 
+- at least 5 secons before changing lanes on freeway 
+- before pulling next/away from curb
+- when u change directions 
+- if planning to turn beyond intersection. Start signaling when u're in intersection. if signal too early, other person may pull out in front of u. Remember to cancel signal after turning. 
+
+### Steering 
+- reg hp: hands at 9 & 3 o' clock or slightly lower at 8 and 4 o' clock
+- *hand-to-hand steering*: aka "push/pull" steering; hands don't cross over face of steering wheel, so less chance of injury to face, arms, or hands when air bag deployed. Start hands at reg HP. Depending direction turning, one hand will push wheel up and the other down. 
+- *hand-over-hand steering*: used when turning at low speeds, parking, or recovering from skid. Reg hp; depending on turn direction, one hand will push the wheel up while the other lets go and reach across the other arm and grasp the wheel and pull up. 
+- *one hand steering*: recommended only when turning while backing or operating vehicle controls that require removing hand from steering wheel. 12 o'clock recommended only when backing while turning as driver must turn to see path of vehicle. Reg hp is critical to balance. 
+
+### Signals 
+Use horn 
+- only when necessary, to avoid collisions 
+- To get eye contact w/ other drivers; to alert other drivers of potential collisions 
+- on narrow mountain roads, where u can't see at least 200 ft ahead 
+
+Don't use horn 
+- if driver/bike moves slowly and u want them to be faster 
+- alert other drivers that they made a mistake b/c it might cause them to make more or become angry&retaliate
+- b/c u're angry/upset
+- at PBM other than to avoid collision 
+
+
+Use headlights 
+- if weather conditions require u to use windshield wipers, turn on low-bean headlights 
+- conditions (cloud, rain, snow, etc) prevent u from seeing other vehicles. 
+- on small country/mountain roads, even on sunny days 
+- in the dark where visibiliy doesn't allow clear recogniition of ppl/vehicle from 1k ft 
+- 30 minutes after sunset to 30 min before sunrise
+- when sign says so 
+- to increase vehicle visiblity; even on bright days and esp. when sun is low on the horizon. 
+
+Emergency Signal
+
+If collision ahead, warn drivers behind w/ emergency ahead or tapping brake pedal quickly 3-4 times (or hand signals). Never stop on roald unless for safety or to obey law. If stopping, brake ASAP to signal cars behind. 
+If vehicle trouble & need to stop
+- pull off road away from traffic if possible 
+- if can't get off road completely, stop where ppl can see u and vehicle from behind (dont' stop over hill/around curve)
+- turn emergency flashers if not moving or use turn signals 
+- lift hood to signal emergency when safe
+- give other drivers enough warning. Place emergency flars/triangels 200-300 ft behind. Be very careful using flares b/c may cause fires 
+
+### Vehicle Positioning
+- On 2 lane road w/ oncoming vehicle approaching & bike ahead to right. Slow down and let oncoming vehicle pass. Then, when safe, move left to give room (3+ ft) to pass bike. 
+- "Split the difference" by steer middle course b/c oncoming cars and parked ones; give the room to the most dangerous situation. 
+- Enter freeway at/near traffic speed. Don't stop before merging into freeway traffic, which had right of way. Follow the 3 second rule. Don't merge into too small of gap, and watch for vehicles around; mirrors, turn signals, over should to change langes/merge into traffic. 
+- when entering from full stop, leave enough gap to get up to speed of other vehicles. A full block on highway and half a block on city streets 
+- When turning, wait until approaching vehicle starts to turn 
+- To exit freeway, signal, over shoulder, and change lanes 1 at a time until in lane to exit. Signal exit intent for ~5 sec before reaching exit, and make sure u're in proper speed for leaving traffic lane 
+
+Dangerous ppl r
+- drivers who can't see u b/c view is blocked. 
+- drivers backing out of driveways/parking 
+- drivers who pass u when curve/oncoming vehicles 
+- drivers about to be forced into ur lane 
+- pedestrians who can't see clearly (ie. umbrella)
+- distracted ppl like delivery, construction workers, children, etc. 
+- Confused ppl like tourists or drivers who slow down
+
+#### Passing 
+- Check for road conditions and check if there's enough room to pass when approaching vehicle, hill/curve, intersection, road obstruction, bike 
+- do not pass if approaching hill/curve and can't see if other traffic is approaching or within 100 ft of an intersection bridge, tunnel, railroad crossing, etc 
+- Pass traffic on the left; only pass right if open highway clearly marked for 2+ lanes of travel in ur direction | driver ahead is turning left and u do not drive off roadway to pass | on a 1 way street.
+- Always signal before passing by lightly tapping on horn or briefly flashing ur lights 
+- don't pull out to pass unless there's enough space to pull back 
+- avoid passing other vehicles in 2 lane roads b/c increases collision chances. Don't squeeze bikes off road. 
+- Look in rear view mirror, and if see both headlights in rearview mirror, there's enough room to return to previous lane. 
+- If being passed, maintain speed and don't go faster
+
+### Sharing Road 
+- Trucks take longer to stop; eg. regular @55mph takes 400 ft while large truck can take 800 ft, so don't suddenly stop or slow down before big truck. 
+- Trucker's blind spots; generally if u can't see truck driver in their side mirror, they can't see u either. 
+
+![Screen Shot 2023-01-09 at 10 55 28 AM](https://user-images.githubusercontent.com/14303605/211385874-4827d72c-c5cc-4d8e-911a-564234fe9901.jpg)
+- Trucks must swing wide before turning right, so check signals before assuming truck's turn direction. 
+- Don't cut off truck in traffic/highway to reach exit/turn. 
+- Don't linger alongside truck when passing (always pass truck on left)
+- Don't tailgate/follow too closely 
+- Don't drive through safety zone unless in a 1 way street, when tracks too close to right that you can't pass on the right, when a traffic officers directs u to pass on the left 
+- *Never* turn before an approaching light-rail vehicle 
+- Check for approaching light rail 
+- Yield right of way to police, fire engines, ambulance, or other emergency vehicle w/ siren and red light. Drive on the right and stop until they have passed, but **NEVER** stop at intersection (con't and then drive on right) 
+- Obey order/signal given by traffic officer/police/firefighter even if it conflicts w/ existing laws
+- A/g law to follow behind within 300 ft of vehicle w/ siren or flashing lights. 
+- accomodate SMV (slow moving vehicles), and when sign w/ NEV (neighborhood electic vehicles), watch out for them (they can only reach 25 mph max but road limit is always <= 35 mph) 
+- Slow down/stop before horses/other animals; traffic offense to scare harses or livestock 
+- Motorcycles keep headlights on even during daylight hours 
+- Check motorcycles when changing lanes, turning, or enter major throughfare b/c motorcycles r small & can easily appear in blind spots 
+- 4 second following distance for motorcycles and give them full lane width (not illegal to share lanes, but unsafe) 
+- don't pass motorcycle in the same lane u're sharing w/ them 
+- move to one side of ur lane to give them enough room to pass
+- Do NOT give blind verbal directions or honk horn 
+- Slow down when there's construction & be ready to stop 
+- Move lane if safe or slow down when approaching stationary emergency vehicle/tow truck/Caltrans w/ flashing lights  
+- truck w/ diamond shaped sign on must stop before crossing railroad tracks 
+
+### Special Driving Conditions
+- Curves have a strong outward pull which is very dangerous when road is slippery (ie. rain, mud snow, ice, gravel). Slow down before entering curve. Braking on curve may cause skidding 
+- in heavy rain w/ 50+ mph, tires can lose contact w/ road and vehicle will be riding on water or *hydroplaning*; applying brakes, changing directions, or wind can cause vehicle to skid. If hydroplaning, slow down gradually, and don't apply brakes 
+- *wet road*: reduce by 5-10 mph 
+- *packed snow*: reduce speed by half 
+- *ice*: slow to a crawl 
+- be careful of slippery roads: shade from trees/buildings can hid ice spots; bridges/overpasses freeze first; if raining on hot day, pavement can be slippery b/c heat causes oil in asphalt to come to surface 
+- *High winds*: reduce speeds, maintain firm hand position on steering wheel, look out for debris on road, don't use cruise control, and be proactive 
+- Use low-beam headlights (never drive w/ just parking/fog lights) in *fog/heavy smoke*. Increase following distance and be prepared to stop. Avoid crossing or passign lanes. 
+- *driving w/ sun glare*: keep inside and outside of windshield clean, maintain enough space b/w vehicles around u, and be cautious of pedestrians. 
+- *driving in dark*: Use ur low-beam headlights when it rains. Use high-beam in open country or dark city streets if it's not illgal (don't blind other drivers and dim if necessary). 
+- *Driving in Rain or Snow*:  turn on windshield, low beam lights, and defroster. If u cna't see further than 100 ft, don't drive past 30 mph. 
+- *flooded roadways*: drive slowly if u have to and make sure brakes function properly 
+- On *hill country/curves*, u must drive slowly enough to stop, and view blocked, assume another vehicle ahead. Only pass if vehicle is at least 1/3 mile away. Don't drive on the left side of the road. 
+- Make sure tire PSI right; and w/ penny, if u can see top of lincoln's head; it's time for new tires. 
+![Screen Shot 2023-01-09 at 11 40 35 AM](https://user-images.githubusercontent.com/14303605/211393721-cbe4888d-75f6-49b1-8474-2e0cf5d96b95.jpg)
+
+- NEVER run engine w/ garage door closed 
+
+#### Enforcement Stop
+- Acknowledge officer by turning on right turn signal 
+- Move vehicle to right shoulder of road; on freeway, move completely onto right shoulder, even if u're in carpool/HOV lane 
+- End cell phone and turn off radio, and remain inside unless otherwise directed 
+- Place hands in clear view, including passengers' hands, and roll down windows after vehicle stopped 
+
+#### Green Driving 
+AKA "smart" driving is used ot maximize feul efficiency and lower emissions 
+- *Behavior*: accelerate & slow down smoothly, and maintain steady average speed
+- *Maintenance*: keep ur vehicle in good shape 
+- *Weight*: get rid of extra weight 
+
+#### Traffic Breaks 
+- Used to remove hazards, conduct emergency operations, preven traffic ollisions in heavy fog or unusually heavy traffic. 
+Officer turns rear emergency lights on, slows vehicle, and drives across lanes of traffic. To help:
+- Turn on emergency flashers to warn other drivers 
+- slowly decrease speed; don't slow abruptly unless to avoid collision; keep same speed as officer. 
+- don't pass patrol unless emergency lights r off
+
+### Dealing With Aggressive Drivers and Road Rage
+Avoid becoming aggressive by 
+- allow time to reach destination 
+- don't cut off other drivers
+- don't drive slowly in left/fast lane 
+- don't tailgate 
+- don't gesture to other drivers
+- use horns for emergencies only 
+- let aggressive drivers pass you 
+
+Common aggressive behaviors 
+- *lane blocking* | *tailgating*
+- *signal lights*: always use them when changing lanes and avoid chaning to closely to other vehicles. 
+- *gestures*: don't do it in way that would be interpreted as hostile or obscene 
+- *failure to turn*: unless otherwise posted, right turns r allowed after complete stop at red light. Choosing to wait may frustruate drivers behind, but it's not illegal 
+- *parking* don't take more than 1 parking spot
+- *headlights* dim high beam headlights for oncoming traffic and when approaching from behind 
+- *merging* when permitted, make room for other cars to merge. 
+
+### Handling Emergencies
+- *skidding*: ease off gas pedal, stop braking, and turn steering wheel in direction of skid; try to find sth to stop the skid (ie. dry pavement or shoulder of the road). If brakes r wet, dry them by lightly pressing gas & brake pedals at the same time until brakes dry 
+- if wheels drift off pavement, grip steering firmly, ease off gas pedal, and brake gently. Check traffic behind, and gentely steer back on pavement. 
+- *Acceleration skids*: happen when wheels lose traction on road surface, so ease off gas pedal and straighten front wheels. 
+- *locked wheel skids*: caused by braking too hard at a high rate of speed and locking wheels. Take foot off brake to unlock wheels, and straighten front wheels. If vehicle doesn't haave anti-lock brakes, step on brake graduailly until at safe speed, but if press brake and sinks to floor, pump pedal to build pressure, down shift to lower gear or neutral to slow down, and then use emergency/parking brake to stop. 
+- *accelerator malfunction*: shift to neutral, apply brakes, keep eyes on route, look for route away from traffic, warn other drivers by honking and turning on emergency lights, drive safely off the road, and turn off the ignition. 
+- **never** turn ignition to lock while still in motion. 
+- avoid driving near collisions and slow down when hazard lights on. 
+- If involved in collision, must stop, call 911 if anyone's hurt, move vehicle out of traffic lane, show DL, vehicle registration card, evidence of financial responsibility, and current address to ppl involved. 
+- make written report to police or CHP within 24 hrs if smo killed/injured and written report to DMV within 10 days
+- If hit parked vehicle/property or ur parked car rolls away and hits another vehicle, leave note with name, phone number, and address in or attached to vehicle. Report collision to police or to CHP
+- if animal killed/injured, call nearest humane society, police, or CHP. Don't move animal or leave it. 
+- If there's a collision, both parties must report to DMV no matter what 
+
+### Safety Tips
+- if disabled on freeway, safely pull to right shoulder, if must exit, exit on right side (away from traffic), after arranging for assistance, put on seat belt and stay inside until help arrives 
+- CHP FSP provides free emergency roadside services during commute times, and if they can't start it, it will be towed for free at location approved by CHP. 
+- On freeway & vehicle stops running, FSP will offer a gallon of gas if runs out, jump start vehicle if dead battery, refill radiator and hoses, change flat tire, and report collisions, but it will not. tow vehicle to private repair service, recommend tow services or repair shops, tow motorcycles, assist vehicles in collisions unless directed by CHP 
+- When vehiclae stalls or disabled while blocking part of train tracks, 
+   - if warning lights flashing/train approching, exit vehicle and run 45 degrees away from tricks in the direction that train is coming, and dial 911. (only 20 seconds before train arrives)
+   - if no train approaching, exit vehicle and dial emergency notification number, and provide location, crossing number, and road/highway intersection. Then, call 911
+
+
+### Driver Readiness
+- illegal to wear headset or earplugs while driving 
+- avoid fatigued or drowsy driving 
+- check meds' side effects before eating; don't take drugs that may cause drowsiness or dizziness
+
+### Alcohol and Drugs
+- Illegal to drink any alcohol or use any weed while driving or riding as a passenger, but doesn't apply to nondriving passengers in bus, taxi, camper, or motor. Alcohol should be sealed, full, and unopened. Keeping open alcohol in glove compartment is a/g the law. Open container of weed while operating car is also illegal 
+- Under 21, cannot carry liquor, beer, or wine, and w/ BAC of 0.01%+, revoked DL 
+- Illegal for 0.08% for ppl 21+, 0.01% for <21 or on DUI probation, 0.04% if vehicle requires CDL or if for hire. 
+- All DUI convictions remain on DMV records for 10 years 
+- Restrited DL (allows driving to/from work and DUI program) may be issued if 21+, enroll in DUI program, and file insurance proof, and pay restriction and reissue fees. 
+![Screen Shot 2023-01-09 at 5 43 21 PM](https://user-images.githubusercontent.com/14303605/211442769-e1473df8-9b47-43c1-b491-673aa86bc7f4.jpg)
+
 ### Occupant Protection
 - shoulder harness shouldn't be worn under the arm/behind the back 
 - pregnant ppl should wear lap belt below abdomen & shoulder strap b/w breast and bulge 
 - for ppl under 16, driver is cited if not wearing seat belt 
 - Ride at least 10 in from the air bag cover for both passenger and driver 
-
 - Do not be distracted from driving visually, cognitively, or manually (hands off steering wheel); eg. using handheld device, reaching for an object, reading, eating, etc.
 
 #### For children: 
@@ -248,7 +484,35 @@ DO NOT leave kids or animals in hot vehicle!
 
 ### Misc
 - drivers must always yield the right-of-way to a pedestrian; At an intersection where traffic is not controlled by traffic signal lights, drivers are required to yield the right-of-way to pedestrians within any crosswalk, marked or unmarked.
-
+- don't smoke when minor in vehicle
+- don't dump/abandom animals on highway 
+- don't drive vehicle so loaded that u can't control, see ahead, or sides 
+- don't carry things in passenger vehicle which extends beyond 6 inches
+- Don't let ppl ride back of pickup/truck unless it has seat & safety belt
+- don't transport animals in back of pickup/truck unless properly secured 
+- don't drive w/ video monitor if driver can see it, and it displays more than vehicle info, global mapping displays, media player, or radio info 
+- don't throw flaming/glowing things 
+- Windshield/window sticks only at 7 inch sq on either passenger's side windshield lower corner or of rear window, 5 inche sq on lower corner of driver's window, side windows behind driver, 5 in sq located in the upermost portion of the windshield 
+- don't hinder funeral processions; they have right of way 
+- don't obscue license plate or alter it 
+- dim lights to low beam within 500 ft of vehicle coming at u or within 300 ft of vehicle u're following. 
+- Always have evidence of financial responsibility (insurance, $35k w/ DMV, surety bond for 35k from company licensed to do business in CA, DMV issued self-insurance certificate)
+- insurance must cover min 15k for single death/injury, 30k for 1+ death/injury, and 5k for propery damage 
+- DMV retains collision reported to DMB by law enforcement (unless other person at fault) and you or other party invovled in collision if smo has over 1k damage or is injured/dies. (doesn't matter who caused it) 
+- Paying fine = guilty plea in court and failure to appear in court = FTA, which an cause DL suspension 
+- Failure to pay fine != DL suspension (2017), and courts don't need to notify DMV of failure to pay fine 
+- Court notifies DMV of each traffic violation, and is placed on DL record. 
+- If flees or tries to evade police is guilty of misdemeanor punishable for <1 yr in county jail. 
+- If causes damage during police pursuit, imprisionment in state for 3,5,7 yrs or county for <1 year, fine b/w 2k-10k, and both. If manslaughter, state prision for min 4-10 yrs 
+- Traffic convictions stay on record for 36 months or longer 
+- NOTS (negligent operator treatment system): 4 pts in 12 months, 6 in 24 months, and 8 in 36 months 
+- Non-commercial cited for 1 pt traffic violation, judge may offer to attend traffic violator school once in any 18 month period to mask it. 
+- If too many pts, DMV may give probation for 1 year, or revoke DL. At the end, may apply for new DL
+- DL record is publicly available but medical records are confidential 
+- If involved in vandalism, DL may be suspended <=2 yrs 
+- reckless driving or speed contest causing injury is subject to imprisonment and/or fine 
+- court can suspend/revoke DL of minor w/ concealable weapon or live ammunition or impose DL sanctions for minors w/ firearm misdemeanors 
+- new/used vehicle 
 
 ### Towing
 - when towing vehicle, trailer, or driving bus or 3 or more axle truck, must drive in the right most lane or the one marked for slower vehicls. If no marked lanes, there are 4 or more lanes in ur direction, u may only drive either of the 2 lanes closest to the right edge of rht eroad. 
